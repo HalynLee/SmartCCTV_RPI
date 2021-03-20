@@ -2,6 +2,7 @@
 import socket
 from picamera import PiCamera
 import time
+import os
 
 camera = PiCamera()
 
