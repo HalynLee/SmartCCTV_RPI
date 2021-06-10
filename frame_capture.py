@@ -8,7 +8,7 @@ camera = PiCamera()
 
 #for socket connection
 s= socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-s.connect(('211.41.203.30',10000))
+s.connect(('124.49.100.134',10000))
 
 print("---------Connection complete---------")
 
